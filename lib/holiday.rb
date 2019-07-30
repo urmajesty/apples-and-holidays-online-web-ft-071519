@@ -80,6 +80,7 @@ holidays.each do |holiday, supplies|
     bbq_hash << holiday
   end
 end
+bbq_hash
 end
 
 
