@@ -80,7 +80,7 @@ holidays.map do |holiday, supplies|
     
   end
 end
-bbq_hash
+
 end
 
 
